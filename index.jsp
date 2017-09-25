@@ -52,4 +52,5 @@ src="<c:url value="resources/samsung.jpg"/>" style="width:100%">
 </div>
 </div>
 </body>
+<%@ include file="footer.jsp"%>
 </html>
